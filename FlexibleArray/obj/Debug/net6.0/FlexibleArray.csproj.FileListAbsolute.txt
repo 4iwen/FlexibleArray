@@ -1,0 +1,15 @@
+C:\Projects\c#\FlexibleArray\FlexibleArray\bin\Debug\net6.0\FlexibleArray.exe
+C:\Projects\c#\FlexibleArray\FlexibleArray\bin\Debug\net6.0\FlexibleArray.deps.json
+C:\Projects\c#\FlexibleArray\FlexibleArray\bin\Debug\net6.0\FlexibleArray.runtimeconfig.json
+C:\Projects\c#\FlexibleArray\FlexibleArray\bin\Debug\net6.0\FlexibleArray.dll
+C:\Projects\c#\FlexibleArray\FlexibleArray\bin\Debug\net6.0\FlexibleArray.pdb
+C:\Projects\c#\FlexibleArray\FlexibleArray\obj\Debug\net6.0\FlexibleArray.csproj.AssemblyReference.cache
+C:\Projects\c#\FlexibleArray\FlexibleArray\obj\Debug\net6.0\FlexibleArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\FlexibleArray\FlexibleArray\obj\Debug\net6.0\FlexibleArray.AssemblyInfoInputs.cache
+C:\Projects\c#\FlexibleArray\FlexibleArray\obj\Debug\net6.0\FlexibleArray.AssemblyInfo.cs
+C:\Projects\c#\FlexibleArray\FlexibleArray\obj\Debug\net6.0\FlexibleArray.csproj.CoreCompileInputs.cache
+C:\Projects\c#\FlexibleArray\FlexibleArray\obj\Debug\net6.0\FlexibleArray.dll
+C:\Projects\c#\FlexibleArray\FlexibleArray\obj\Debug\net6.0\refint\FlexibleArray.dll
+C:\Projects\c#\FlexibleArray\FlexibleArray\obj\Debug\net6.0\FlexibleArray.pdb
+C:\Projects\c#\FlexibleArray\FlexibleArray\obj\Debug\net6.0\FlexibleArray.genruntimeconfig.cache
+C:\Projects\c#\FlexibleArray\FlexibleArray\obj\Debug\net6.0\ref\FlexibleArray.dll
